@@ -5,4 +5,5 @@ this is a simple readme file
 adding more text into README.md
 
 #3 
-Trying to discard this line after committing 
+Trying to discard this line after committing ========> didn't work 
+
