@@ -12,3 +12,6 @@ Another modification to see the difference between the HEAD and the rest
 
 #5
 switch to a new branch
+
+#6 
+first very bad update 
