@@ -11,4 +11,4 @@ Trying to discard this line after committing ========> didn't work
 Another modification to see the difference between the HEAD and the rest
 
 #5
-switch to a new branch
+update to cause a conflict
