@@ -11,4 +11,6 @@ Trying to discard this line after committing ========> didn't work
 Another modification to see the difference between the HEAD and the rest
 
 #5
-update to cause a conflict
+Something going on 
+#6 
+testing the stash
