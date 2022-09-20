@@ -14,3 +14,5 @@ Another modification to see the difference between the HEAD and the rest
 Something going on 
 #6 
 testing the stash
+
+adding something else ....
