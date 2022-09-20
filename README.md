@@ -16,3 +16,9 @@ Something going on
 testing the stash
 
 adding something else ....
+ 
+#7
+the seventh commit
+
+#8 
+the eighth commit
